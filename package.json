@@ -1,0 +1,19 @@
+{
+  "name": "hoax_project",
+  "version": "1.0.0",
+  "description": "tdd with express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "Jeremiah Wise",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
